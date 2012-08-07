@@ -48,7 +48,8 @@
     <DataWriteAllFilesInOneDirectory>true</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>1</Count>
+    <Count>2</Count>
     <DataFile>dbo.MWeapon_Data.sql</DataFile>
+    <DataFile>dbo.Element_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
